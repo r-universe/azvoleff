@@ -1,0 +1,10 @@
+[
+  {
+    "package": "gfcanalysis",
+    "oncran": true
+  },
+  {
+    "package": "glcm",
+    "oncran": true
+  }
+]
